@@ -57,3 +57,12 @@ Regularly update the database and backup systems to ensure data integrity and se
 ## 🟣License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+<br>
+<h2 id="contact">📬 Contact</h2>
+<p>
+📉 Passionate about data science and coding? Me too!<br><br>
+🟣 Let's make something great together. Email me at <a href="mailto:renatadalmeidas@gmail.com">renatadalmeidas@gmail.com</a><br><br>
+🟣 Connect with me on <a href="https://www.linkedin.com/in/renata-d-almeida/">LinkedIn</a> for more updates on my projects and professional endeavors
+</p>
+
